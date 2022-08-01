@@ -1,1 +1,2 @@
-# Past-work-DR
+# DR糖尿病视网膜病变
+&emsp;&emsp;本项目记录之前自己对于DR分类的学习过程。
